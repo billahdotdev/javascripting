@@ -1,4 +1,4 @@
-It's a great javaScript learning resource
+It's a great JavaScript learning resource
 https://github.com/workshopper/javascripting   
 
 
