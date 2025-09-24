@@ -1,24 +1,49 @@
-# NodeSchool Javascripting Workshop Exercises
+javascripting
 
-This repository contains solutions and explanations for the **NodeSchool Javascripting** workshop challenges.  
-These exercises are designed to help you build a strong foundation in JavaScript by practicing core concepts step-by-step.
+This repository contains solutions and exercises for the 20 topics of JavaScript from the NodeSchool javascripting workshop
+.
 
----
+Contents
 
-## About This Workshop
+Each folder/file corresponds to one of the 20 JavaScript topics covered in the NodeSchool javascripting workshop. These exercises are great for learning and practicing JavaScript basics.
 
-NodeSchool's Javascripting workshop covers essential JavaScript topics through interactive challenges.  
-By working through these exercises, you will learn:
+Topics covered
 
-- Basic syntax and JavaScript fundamentals  
-- How to work with variables, strings, numbers, arrays, objects, and functions  
-- Control flow with conditionals and loops  
-- Concepts such as scope and function arguments  
-- Practical coding skills to help build real-world applications
+Variables and types
 
----
+Functions
 
-## Repository Structure
+Arrays
 
-Each topic is organized into a separate file named with a two-digit prefix for easy navigation, for example:
+Objects
 
+Loops
+
+Conditionals
+... (list all 20 topics or add a link to the NodeSchool workshop)
+
+How to use
+
+Clone this repository:
+
+git clone https://github.com/yourusername/javascripting.git
+
+
+Navigate to a specific topic folder.
+
+Run exercises using Node.js or open the files in your editor.
+
+Prerequisites
+
+Node.js
+ installed
+
+Basic knowledge of JavaScript
+
+Contribution
+
+Feel free to submit pull requests to improve the solutions or add explanations.
+
+License
+
+This project is licensed under the MIT License.
