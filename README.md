@@ -34,4 +34,4 @@ Each folder/file corresponds to one of the 20 JavaScript topics covered in the N
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/javascripting.git
+   git clone https://github.com/billahdotdev/javascripting.git
