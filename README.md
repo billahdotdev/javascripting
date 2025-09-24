@@ -1,6 +1,6 @@
 # javascripting
 
-This repository contains solutions and exercises for the 20 topics of JavaScript from the [NodeSchool javascripting workshop](https://nodeschool.io/#workshoppers).
+This repository contains solutions and exercises for the 20 topics of JavaScript from the NodeSchool javascripting workshop
 
 ## Contents
 
