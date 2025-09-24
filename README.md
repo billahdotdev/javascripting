@@ -9,12 +9,9 @@ Each topic includes:
 
 ---
 
-## Topics Covered
 
-### 01. Introduction  
-**What is JavaScript?**  
-JavaScript is a programming language used to add interactivity to web pages and run scripts outside the browser with Node.js.  
-We use `console.log()` to output messages or values, which helps us understand what the program is doing.
 
-```js
-console.log('Hello, world!');
+
+
+
+
