@@ -4,7 +4,7 @@ This repository contains solutions and exercises for the 20 topics of JavaScript
 
 ## Contents
 
-Each folder/file corresponds to one of the 20 JavaScript topics covered in the NodeSchool javascripting workshop. These exercises are great for learning and practicing JavaScript basics.
+Each file corresponds to one of the 20 JavaScript topics covered in the NodeSchool javascripting workshop. These exercises are great for learning and practicing JavaScript basics.
 
 ## Topics Covered
 
