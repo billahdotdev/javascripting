@@ -8,26 +8,26 @@ Each folder/file corresponds to one of the 20 JavaScript topics covered in the N
 
 ## Topics Covered
 
-- 01. introduction.js  
-- 02. variables.js  
-- 03. strings.js  
-- 04. string-length.js  
-- 05. revising-strings.js  
-- 06. numbers.js  
-- 07. rounding-numbers.js  
-- 08. number-to-string.js  
-- 09. if-statement.js  
-- 10. for-loop.js  
-- 11. arrays.js  
-- 12. array-filtering.js  
-- 13. accessing-array-values.js  
-- 14. looping-through-arrays.js  
-- 15. objects.js  
-- 16. object-properties.js  
-- 17. object-keys.js  
-- 18. functions.js  
-- 19. function-arguments.js  
-- 20. scope.js  
+ 01. introduction.js  
+ 02. variables.js  
+ 03. strings.js  
+ 04. string-length.js  
+ 05. revising-strings.js  
+ 06. numbers.js  
+ 07. rounding-numbers.js  
+ 08. number-to-string.js  
+ 09. if-statement.js  
+ 10. for-loop.js  
+ 11. arrays.js  
+ 12. array-filtering.js  
+ 13. accessing-array-values.js  
+ 14. looping-through-arrays.js  
+ 15. objects.js  
+ 16. object-properties.js  
+ 17. object-keys.js  
+ 18. functions.js  
+ 19. function-arguments.js  
+ 20. scope.js  
 
 
 ## How to Use
