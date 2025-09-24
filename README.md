@@ -1,49 +1,23 @@
-javascripting
+# javascripting
 
-This repository contains solutions and exercises for the 20 topics of JavaScript from the NodeSchool javascripting workshop
-.
+This repository contains solutions and exercises for the 20 topics of JavaScript from the [NodeSchool javascripting workshop](https://nodeschool.io/#workshoppers).
 
-Contents
+## Contents
 
 Each folder/file corresponds to one of the 20 JavaScript topics covered in the NodeSchool javascripting workshop. These exercises are great for learning and practicing JavaScript basics.
 
-Topics covered
+## Topics Covered
 
-Variables and types
+1. Variables and types  
+2. Functions  
+3. Arrays  
+4. Objects  
+5. Loops  
+6. Conditionals  
+... *(add all 20 topics or link to the workshop)*
 
-Functions
+## How to Use
 
-Arrays
-
-Objects
-
-Loops
-
-Conditionals
-... (list all 20 topics or add a link to the NodeSchool workshop)
-
-How to use
-
-Clone this repository:
-
-git clone https://github.com/yourusername/javascripting.git
-
-
-Navigate to a specific topic folder.
-
-Run exercises using Node.js or open the files in your editor.
-
-Prerequisites
-
-Node.js
- installed
-
-Basic knowledge of JavaScript
-
-Contribution
-
-Feel free to submit pull requests to improve the solutions or add explanations.
-
-License
-
-This project is licensed under the MIT License.
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/yourusername/javascripting.git
